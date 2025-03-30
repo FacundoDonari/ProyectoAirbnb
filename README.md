@@ -71,34 +71,39 @@ Noches Mínimas:
 ⚫ Dashboard ⚫
 El dashboard final incluye:
 
-Visualización de precios promedio por tipo de oferta
+▪  Visualización de precios promedio por tipo de oferta
 
-Cantidad de ofertas y Varaicion de precios por barrios. 
+▪  Cantidad de ofertas y Varaicion de precios por barrios. 
 
-Gráficos temporales de variación de precios.
+▪ Gráficos temporales de variación de precios.
 
-Tablas comparativas de precios según noches mínimas.
+▪  Tablas comparativas de precios según noches mínimas.
 
 🔷 Conclusiones 🔷
 Este análisis revela un mercado de alquileres temporales en Buenos Aires con claras segmentaciones por tipo de propiedad y ubicación geográfica. 
 
 Los datos sugieren que:
 
-Los anfitriones se volcarian a ofertar estadias de 1 noche o de 3 siendo las que mas ingresos pueden obtener.
+▪  Los anfitriones se volcarian a ofertar estadias de 1 noche o de 3 siendo las que mas ingresos pueden obtener.
 
-Existen oportunidades de negocio en barrios con menor oferta y alta demanda. Barrios como Puerto Madero, San Telmo y Villa Crespo tiene precios elevados pero no lideran en ofertas, lo que podrian indicar que son barrios subexplotados. 
+▪  Existen oportunidades de negocio en barrios con menor oferta y alta demanda. Barrios como Puerto Madero, San Telmo y Villa Crespo tiene precios elevados pero no lideran en ofertas, 
+   lo que podrian indicar que son barrios subexplotados. 
 
-La flexibilidad en las noches mínimas podría ser un factor determinante en la competitividad de los listados. Las estadias de una noche son las mas caras lo que indicaria que los inquilinos buscan estadias cortas y pagan por ellas, se podrian hacer descuentos por estadias un poco mas largas con precio por debajo del promedio y asi ataraer a otro tipo de inquilinos.     
-
-
-Tecnologías Utilizadas
-Python (Pandas, NumPy) para limpieza y procesamiento de datos
-
-Tableau para visualización y análisis interactivo
+▪  La flexibilidad en las noches mínimas podría ser un factor determinante en la competitividad de los listados. Las estadias de una noche son las mas caras lo que indicaria que los 
+   inquilinos buscan estadias cortas y pagan por ellas, se podrian hacer descuentos por estadias un poco mas largas con precio por debajo del promedio y asi ataraer a otro tipo de 
+   inquilinos.     
 
 
+⏬ Tecnologías Utilizadas
 
-Archivos Incluidos
+▪  Python (Pandas, NumPy) para limpieza y procesamiento de datos
+
+▪  Tableau para visualización y análisis interactivo
+
+
+
+⏬ Archivos Incluidos
+
 listings_limpio.csv: Dataset de listados después de la limpieza
 
 calendar_limpio.csv: Dataset de calendario después de la limpieza
@@ -107,4 +112,7 @@ Limpieza de Datos.ipynb: Notebook con el proceso de limpieza y análisis
 
 ReporteTableau.twb: Archivo de Tableau con las visualizaciones creadas
 
+
+Imagen de la Visualizacion. Tambien se agrega el Archivo para Descargar. 
+![Image](https://github.com/user-attachments/assets/d625abba-d9a8-471c-9a98-dbb2d7e346fd)
 
